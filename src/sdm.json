@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Sundar Pichai",
+        "avatar":"https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
+        "role":"frontend",
+        "skill":10
+    },
+    {
+        "name":"Elon Musk",
+        "avatar":"https://awsimages.detik.net.id/community/media/visual/2022/05/03/elon-musk-dan-maye-musk-di-met-gala-2022-3_169.jpeg?w=700&q=90",
+        "role":"backend",
+        "skill":10
+    },
+    {
+        "name":"Emma Watson",
+        "avatar":"https://static.republika.co.id/uploads/images/inpicture_slide/emma-watson-bekerja-untuk-pbb-guna-mengampanyekan-women-s-heforshe-_160922081825-128.jpg",
+        "role":"frontend",
+        "skill":6
+    },
+    {
+        "name":"Benedict Cumberbatch",
+        "avatar":"https://akcdn.detik.net.id/visual/2022/02/09/benedict-cumberbatch_169.jpeg?w=650",
+        "role":"frontend",
+        "skill":8
+    },
+    {
+        "name":"Sergey Brin",
+        "avatar":"https://1.bp.blogspot.com/-J_OaDcLa4Vk/XZYtPB6zCTI/AAAAAAABJ38/_qcFk1i9E7kcS8WjumhkxMxGtXSJK24LgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sergey%2BBrin%2Beconomictimes%2Bcom.jpg",
+        "role":"backend",
+        "skill":7
+    },
+    {
+        "name":"Kanna Hashimoto",
+        "avatar":"https://www.themoviedb.org/t/p/w500/fGYg7tuCMQrQvTEyuUsAbCil3s0.jpg",
+        "role":"backend",
+        "skill":9
+    },
+    {
+        "name":"Heung Min Son",
+        "avatar":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Team_Korea_Russia_WorldCup_02_%28cropped%29.png",
+        "role":"frontend",
+        "skill":4
+    },
+    {
+        "name":"Mark Zuckerberg",
+        "avatar":"https://assets.pikiran-rakyat.com/crop/658x34:1741x1051/x/photo/2021/12/20/2821040788.jpg",
+        "role":"backend",
+        "skill":5
+    },
+    {
+        "name":"Khabib Nurmagomedov",
+        "avatar":"https://cdn.vox-cdn.com/thumbor/HolsMvo20HEOri4dw2xmzureUCM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8079721/030_Khabib_Nurmagomedov.0.jpg",
+        "role":"frontend",
+        "skill":7
+    },
+    {
+        "name":"Cillian Murphy",
+        "avatar":"https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/10/09/cillian-murphy-1-696x442jpg-20211009035307.jpg",
+        "role":"frontend",
+        "skill":9
+    }
+]

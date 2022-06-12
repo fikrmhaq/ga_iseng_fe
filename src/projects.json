@@ -1,0 +1,203 @@
+[
+    {
+        "nama":"Aset Management",
+        "deadline":30,
+        "demand":10,
+        "kepentingan":4,
+        "requirements":{
+            "frontend":5,
+            "backend":7
+        }
+    },
+    {
+        "nama":"Web Disdik",
+        "deadline":120,
+        "demand":5,
+        "kepentingan":3,
+        "requirements":{
+            "frontend":8,
+            "backend":2
+        }
+    },
+    {
+        "nama":"Manajemen Ujian",
+        "deadline":60,
+        "demand":4,
+        "kepentingan":5,
+        "requirements":{
+            "frontend":8,
+            "backend":9
+        }
+    },
+    {
+        "nama":"LMS System",
+        "deadline":240,
+        "demand":7,
+        "kepentingan":6,
+        "requirements":{
+            "frontend":10,
+            "backend":10
+        }
+    },
+    {
+        "nama":"Buku Tamu",
+        "deadline":30,
+        "demand":5,
+        "kepentingan":7,
+        "requirements":{
+            "frontend":4,
+            "backend":7
+        }
+    },
+    {
+        "nama":"Manajemen Magang",
+        "deadline":240,
+        "demand":9,
+        "kepentingan":8,
+        "requirements":{
+            "frontend":2,
+            "backend":6
+        }
+    },
+    {
+        "nama":"E-Hospital",
+        "deadline":120,
+        "demand":4,
+        "kepentingan":5,
+        "requirements":{
+            "frontend":8,
+            "backend":7
+        }
+    },
+    {
+        "nama":"Presensi Online",
+        "deadline":30,
+        "demand":7,
+        "kepentingan":7,
+        "requirements":{
+            "frontend":6,
+            "backend":8
+        }
+    },
+    {
+        "nama":"Project Management",
+        "deadline":240,
+        "demand":8,
+        "kepentingan":4,
+        "requirements":{
+            "frontend":8,
+            "backend":9
+        }
+    },
+    {
+        "nama":"Jurnal Pegawai",
+        "deadline":120,
+        "demand":9,
+        "kepentingan":10,
+        "requirements":{
+            "frontend":6,
+            "backend":8
+        }
+    },
+    {
+        "nama":"Web Rumah Sakit",
+        "deadline":60,
+        "demand":4,
+        "kepentingan":5,
+        "requirements":{
+            "frontend":2,
+            "backend":1
+        }
+    },
+    {
+        "nama":"Mobile Banking",
+        "deadline":240,
+        "demand":10,
+        "kepentingan":7,
+        "requirements":{
+            "frontend":5,
+            "backend":10
+        }
+    },
+    {
+        "nama":"Coffee Shop",
+        "deadline":60,
+        "demand":7,
+        "kepentingan":4,
+        "requirements":{
+            "frontend":8,
+            "backend":7
+        }
+    },
+    {
+        "nama":"E-Drive",
+        "deadline":60,
+        "demand":8,
+        "kepentingan":5,
+        "requirements":{
+            "frontend":9,
+            "backend":9
+        }
+    },
+    {
+        "nama":"Web Dishub",
+        "deadline":15,
+        "demand":8,
+        "kepentingan":8,
+        "requirements":{
+            "frontend":9,
+            "backend":2
+        }
+    },
+    {
+        "nama":"Composing App",
+        "deadline":45,
+        "demand":10,
+        "kepentingan":4,
+        "requirements":{
+            "frontend":8,
+            "backend":8
+        }
+    },
+    {
+        "nama":"SimulasiKepegawaian",
+        "deadline":40,
+        "demand":6,
+        "kepentingan":8,
+        "requirements":{
+            "frontend":3,
+            "backend":4
+        }
+    },
+    {
+        "nama":"Pendaftaran RS",
+        "deadline":50,
+        "demand":2,
+        "kepentingan":9,
+        "requirements":{
+            "frontend":6,
+            "backend":8
+        }
+    },
+    {
+        "nama":"Sistem Penjadwalan",
+        "deadline":60,
+        "demand":5,
+        "kepentingan":5,
+        "requirements":{
+            "frontend":5,
+            "backend":8
+        }
+    },
+    {
+        "nama":"Web SMK Negeri 1",
+        "deadline":15,
+        "demand":8,
+        "kepentingan":3,
+        "requirements":{
+            "frontend":2,
+            "backend":2
+        }
+    }
+    
+]
